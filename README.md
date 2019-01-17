@@ -18,6 +18,7 @@ scenario:
 My to do list tasks are added in the app by 3 ways.
 1.Voice command
 
+
 Instead user typing in manually or selecting from the list,voice recognition is been programmed so that the user can just speak the tasks that can be added manually either by pressing "Enter " keyboard button or by clicking the "ADD"button in the app.   
 2.Drop down box:
 
@@ -25,6 +26,8 @@ This app allows the user/customer to choose the list of tasks
 either from a drop down box. For Example:   Necessary predefined tasks in the drop down box th
 at the user may just click and choose are like,  Purchase flight tickets-if you are a frequent traveller or make phone calls to update your daily work status to your boss or take insulin if you are diabetic etc.It might look like a simple thing to do butin long run we could save 100’s of hours. Once a task is completed it can be deleted as it is done.   
 3.Manually type in:
+
+
 The user may or may not click the "ADD" button in the app to
 insert the tasks into the list."ENTER" key stroke in the keypad can be pressed to do the same function,as it is programmed to do the same.  As an extra feature a geo location map is added to pin point the exact current location and a compass with a direction aid to show where the user is currently located.This facility is dynamic,that is if the app is excuted by an android device 
 then the location is determined by Global facility Service(GPS) and if the same app 
