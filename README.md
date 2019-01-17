@@ -5,7 +5,7 @@ Title of the Project: To Do List mobile app.
 
 Purpose of this app:
 
-Introduction
+Introduction:
 In our busy everyday life most of us try to remember tasks that we must do for 
 the day. We do not 
 prioritize them or even do not allocate them together in a 
@@ -32,8 +32,8 @@ and microphone is used to make this application,along with programming
 language (Java script). Also, this app demonstrates the use of mobile app using 
 either Android or IOS devices. (android for this application).   Cloud Integrated development environment (IDE) such as Monaca is used to build and deploy this app.   HTML-5 (Hypertext mark
 up language) and Cascading Style Sheets are used in addition to JavaScript to make this application.   
-Instructions on how to create this projectUsing Monaca IDE, the code written using HTML, CSS and java script can be converted into an APK(Android Package kid) file ,using “RUN ON DEVICE “menu 
-option ,which can then be copied  into the file sharing facility of the android mobile device. This APK can then be installed in the mobile device. Connect your android device with the computer through USB cable. Enable developer options and USB debugging mode by tapping 7 times on the android device. 
+Instructions on how to create this project:
+Using Monaca IDE, the code written using HTML, CSS and java script can be converted into an APK(Android Package kid) file ,using “RUN ON DEVICE “menu option ,which can then be copied  into the file sharing facility of the android mobile device. This APK can then be installed in the mobile device. Connect your android device with the computer through USB cable. Enable developer options and USB debugging mode by tapping 7 times on the android device. 
 Then the APK file can be installed as an app in the android mobile device.   
 
 
