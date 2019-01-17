@@ -16,6 +16,8 @@ How this app can be utilized in real world
 scenario:
 
 My to do list tasks are added in the app by 3 ways.
+
+
 1.Voice command
 
 
